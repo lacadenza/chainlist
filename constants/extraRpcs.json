@@ -1325,6 +1325,12 @@
           "https://dataserver-asia-4.zenithchain.co/",
           "https://dataserver-asia-2.zenithchain.co/"
         ]
+     },
+    "4224":{
+       "rpc": [
+          "http://http://89.58.46.153:8545"
+        ]
+
     }
 }
 
